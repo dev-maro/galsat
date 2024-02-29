@@ -1,6 +1,5 @@
 build:
   docker:
-    web: Dockerfile
-
+    worker: Dockerfile
 run:
-  bot : python H1HHIH.py
+  worker: python3 H1HHIH.py
