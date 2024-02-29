@@ -3,4 +3,4 @@ build:
     web: Dockerfile
 
 run:
-  web: python main.py
+  web: python H1HHIH.py
