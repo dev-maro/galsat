@@ -1,5 +1,0 @@
-build:
-  docker:
-   
-worker:
-  command: python3 H1HHIH.py
