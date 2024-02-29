@@ -1,5 +1,5 @@
 build:
   docker:
-    worker: Dockerfile
+   
 worker:
   command: python3 H1HHIH.py
