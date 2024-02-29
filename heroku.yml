@@ -3,4 +3,4 @@ build:
     web: Dockerfile
 
 run:
-  web: python H1HHIH.py
+  bot : python H1HHIH.py
